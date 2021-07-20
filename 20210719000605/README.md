@@ -4,11 +4,14 @@ Maximum compatibility. Most Basic.
 
 ## Syntax:
 
-\* *Italics*  
+\* *Italics* \*  
 
-\*\* **Bold**
-\*\*\* ***Bold Italics***
-`` `monospace`
+\*\* **Bold** \*\*  
+
+\*\*\* ***Bold Italics*** \*\*\*  
+
+\` `monospace` \`  
+
 \# - \#\#\#\#\#\# ###Headings (Largest to smallest)
 
 ***Avoid formatting headings if posible for max compatibility***
