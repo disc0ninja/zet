@@ -47,11 +47,8 @@ follwed by the line return.
     console.log('Code Fence')
     // ```
 ```
-
-\> >" Block  
-\> >  
-\> >Quotes"  
-
+> \>"Block  
+> \> Quotes"
 \<\!\-\- Comments \-\-\>
 
 
