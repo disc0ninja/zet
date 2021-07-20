@@ -4,7 +4,8 @@ Maximum compatibility. Most Basic.
 
 ## Syntax:
 
-\* *Italics*
+\* *Italics*  
+
 \*\* **Bold**
 \*\*\* ***Bold Italics***
 `` `monospace`
