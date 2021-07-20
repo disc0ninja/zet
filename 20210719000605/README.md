@@ -12,7 +12,7 @@ Maximum compatibility. Most Basic.
 
 \` `monospace` \`  
 
-\# - \#\#\#\#\#\# ###Headings (Largest to smallest)
+## \# - \#\#\#\#\#\# Headings (Largest to smallest)
 
 ***Avoid formatting headings if posible for max compatibility***
 
@@ -21,15 +21,16 @@ Maximum compatibility. Most Basic.
 !\[alt text\]\(/path/to/image.file\)
 \[!\[image as a link\]\(path/to/image/file\)\]\(https://destination.url\)
 
-\* * unordered lists
-        * nestable
+\* * unordered lists  
+    * nestable
 
-1\. 1. numbered list
-        1\. 1. nestable
-        1\. 1. incrementing
+1. 1\. numbered list  
+    1. 1\. nestable  
+    1. 1\. self incrementing
 
 \-\-\-\- Horizontial Rule
-Four dashes for consistency and compatibility with YAML markers
+Four dashes for consistency and compatibility with YAML markers  
+
 ----
 
 Hard returns require two spaces  
@@ -47,9 +48,9 @@ follwed by the line return.
     // ```
 ```
 
-\> >" Block
-\> >
-\> >Quotes"
+\> >" Block  
+\> >  
+\> >Quotes"  
 
 \<\!\-\- Comments \-\-\>
 
