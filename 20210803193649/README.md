@@ -7,7 +7,7 @@ Security enhancments for Linux developed at the NSA. The best way I've seen it d
 > - Red Hat  
   
 ## SELinux Modes  
-* Enforcing: enforces the loaded security policy
+* Enforcing: enforces the loaded [security policy](https://github.com/disc0ninja/zet/search?q=security%20policy)  
 * Permissive: does not deny operations, but maintaines SELinux labels, (Good for debugging, but not production)  
 * Disabled: No labeling and no enforcement. Can be difficult to enable later. Not Recommended  
   
