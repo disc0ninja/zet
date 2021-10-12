@@ -8,7 +8,7 @@
   1. Can be named
   1. Multiple sources == multiple images output at once 
   1. Combine sources with *provisioning*/*post processing*
-  1. ***provisioner***: Configuration 
+  1. ***[provisioner](query=packer%20provisioner)***: Configuration 
     - Customize your image
     - Scripts/ Configuration Management (eg: terraform/ansible)
     - run sequentially
