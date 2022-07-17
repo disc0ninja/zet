@@ -14,7 +14,7 @@ Note that In and Out descrive the source of the traffic not the destination.
 - Out - traffic entering an interface  
 - Local- traffic destined for router  
 
-## Common Firewall problems with [TCP](q=tcp)/[UDP](q=udp)  
+## Common Firewall problems with [TCP](https://github.com/disc0ninja/zet/search?q=tcp)/[UDP](https://github.com/disc0ninja/zet/search?q=udp)  
   
 - Misconfigured Addresses/Ports
 - Incorrect direction/zones  
